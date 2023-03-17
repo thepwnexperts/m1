@@ -5,13 +5,13 @@ attacker can hack/compromise users data
 
 # backend server's
 
-1) https://github.com/thepwnexperts/m1-sm1-b1 
+1) https://github.com/thepwnexperts/m1-sm1-b1 [have secure but if use /cal endpoint]
 
-2) https://github.com/thepwnexperts/m1-sm2-b1
+2) https://github.com/thepwnexperts/m1-sm2-b1 [unsecure validation at client side]
 
-3) https://github.com/thepwnexperts/m1-sm2-b2
+3) https://github.com/thepwnexperts/m1-sm2-b2 [secure]
 
-4) https://github.com/thepwnexperts/m1-sm3-b1
+4) https://github.com/thepwnexperts/m1-sm3-b1 [secure depends on fetching]
 
 # frontend server's
 

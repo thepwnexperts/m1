@@ -11,7 +11,7 @@ attacker can hack/compromise users data
 
 3) https://github.com/thepwnexperts/m1-sm2-b2 [secure]
 
-4) https://github.com/thepwnexperts/m1-sm3-b1 [secure depends on fetching]
+4) https://github.com/thepwnexperts/m1-sm3-b1 [secure depends on fetching method] 
 
 # frontend server's
 

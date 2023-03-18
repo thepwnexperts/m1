@@ -11,6 +11,7 @@ attacker can hack/compromise users data
 {sm2 and sm3 related to response manipulation}
 
 [sm2 validation at client (OTP validation at client side) ]
+
 2) https://github.com/thepwnexperts/m1-sm2-b1 [unsecure validation at client side]
 
 3) https://github.com/thepwnexperts/m1-sm2-b2 [secure]

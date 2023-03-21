@@ -1,35 +1,40 @@
 # m1
 
-## about server-client side validation vectors
-attacker can hack/compromise users data
+## About server-client side validation vectors
+Attacker can hack/compromise users data using unsecure backend and frontend combination.
 
-# backend server's
+# Backend
 
-[sm1 tempering (price tempering)]
-1) https://github.com/thepwnexperts/m1-sm1-b1 [have secure but if use /cal endpoint]
+1. sm1 (price tempering)
+    - https://github.com/thepwnexperts/m1-sm1-b1 [have secure but if use /cal endpoint]
 
-{sm2 and sm3 related to response manipulation}
+`sm2 and sm3 related to response manipulation`
 
-[sm2 validation at client (OTP validation at client side) ]
+2. sm2 (otp validation)
 
-2) https://github.com/thepwnexperts/m1-sm2-b1 [unsecure validation at client side]
+    - https://github.com/thepwnexperts/m1-sm2-b1 [unsecure validation at client side]
 
-3) https://github.com/thepwnexperts/m1-sm2-b2 [secure]
+    - https://github.com/thepwnexperts/m1-sm2-b2 [secure]
 
-[sm3  secure fetching (this may consider as secure data exchange) ]
-4) https://github.com/thepwnexperts/m1-sm3-b1 [secure depends on fetching method] 
+3. sm3 (secure fetching ->this may consider as secure data exchange) 
+    - https://github.com/thepwnexperts/m1-sm3-b1 [secure depends on fetching method] 
 
-# frontend server's
+# Frontend
 
-1) https://github.com/thepwnexperts/m1-sm1-u1
+1. sm1 (price tempering)
+    - https://github.com/thepwnexperts/m1-sm1-u1 [unsecure]
 
-2) https://github.com/thepwnexperts/m1-sm1-u2
+    - https://github.com/thepwnexperts/m1-sm1-u2 [secure]
 
-3) https://github.com/thepwnexperts/m1-sm2-u1
+2. sm2 (otp validation)
 
-4) https://github.com/thepwnexperts/m1-sm2-u2
+    - https://github.com/thepwnexperts/m1-sm2-u1 [secure]
 
-5) https://github.com/thepwnexperts/m1-sm3-u1
+    - https://github.com/thepwnexperts/m1-sm2-u2 [unsecure]
 
-6) https://github.com/thepwnexperts/m1-sm3-u2
+3. sm3 (secure fetching)
+
+    - https://github.com/thepwnexperts/m1-sm3-u1
+
+    - https://github.com/thepwnexperts/m1-sm3-u2
 

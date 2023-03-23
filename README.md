@@ -8,7 +8,7 @@ Attacker can hack/compromise users data using unsecure backend and frontend comb
 1. sm1 (price tempering)
     - https://github.com/thepwnexperts/m1-sm1-b1 [have secure but if use /cal endpoint]
 
-`sm2 and sm3 related to response manipulation`
+`sm2 related to response manipulation`
 
 2. sm2 (otp validation)
 

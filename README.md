@@ -16,8 +16,6 @@ Attacker can hack/compromise users data using unsecure backend and frontend comb
 
     - https://github.com/thepwnexperts/m1-sm2-b2 [secure]
 
-3. sm3 (secure fetching ->this may consider as secure data exchange) 
-    - https://github.com/thepwnexperts/m1-sm3-b1 [secure depends on fetching method] 
 
 # Frontend
 
@@ -31,10 +29,4 @@ Attacker can hack/compromise users data using unsecure backend and frontend comb
     - https://github.com/thepwnexperts/m1-sm2-u1 [secure]
 
     - https://github.com/thepwnexperts/m1-sm2-u2 [unsecure]
-
-3. sm3 (secure fetching)
-
-    - https://github.com/thepwnexperts/m1-sm3-u1
-
-    - https://github.com/thepwnexperts/m1-sm3-u2
 
